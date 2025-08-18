@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SoumenAtta (Dr. Soumen Atta, Ph.D.)
-- 👀 I’m interested in Facility location problems, Resource allocation problems, Transportation problems, Hub location problems, Metaheuristic, Artificial Intelligence, Evolutionary Computation, Optimization, Applied Operation Research. 
-- 🌱 I’m currently learning Julia, Discrete Choice Optimization.  
+- 👋 Hi, I’m @SoumenAtta (Dr. Soumen Atta, Ph.D.). Currently, I am working as a Postdoctoral Researcher in Well-being and Multi-objective Optimization at the Faculty of Information Technology and the JYU.Well Well-being Research Community, University of Jyväskylä, Finland, as well as a Visiting Researcher at ISCTE - University Institute of Lisbon, Portugal. 
+- 👀 My research interests include Facility location problems, Hub location-allocation problems, Home Healthcare Routing and Scheduling Problems, Transportation problems, Optimization, Soft Computing, Evolutionary computation, Heuristic/metaheuristic algorithms, and Applied Operations Research. 
 - 💞️ I’m looking to collaborate on the research topics mentioned above. 
-- 📫 How to reach me https://www.soumenatta.com/
-
-<!---
-SoumenAtta/SoumenAtta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me https://www.soumenatta.com/ 
